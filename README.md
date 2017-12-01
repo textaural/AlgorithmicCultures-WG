@@ -7,7 +7,11 @@ There are _three_ primary aims of the Working Group. Firstly, we seek to hone me
 panels, workshops, publications, or producing other appropriate forms of dissemination.
 
 ## Discussion Trajectories
-Our primary concern is to discuss questions such as: Do algorithms challenge and/or enhance our understanding of communication theory? What happens when the algorithmic sorting, distributing, and blocking of user profiles become sites of socio-economic struggle? What balances can be established between technologies of disruption/innovation and technologies of maintenance/regulation? Are there useful analytical distinctions between digital, new, social, post- and algorithmic media?
+Our primary concern is to discuss questions such as:
+- Do algorithms challenge and/or enhance our understanding of communication theory?
+- What happens when the algorithmic sorting, distributing, and blocking of user profiles become sites of socio-economic struggle?
+- What balances can be established between technologies of disruption/innovation and technologies of maintenance/regulation?
+- Are there useful analytical distinctions between digital, new, social, post- and algorithmic media?
 
 We expect our conversations to also be spurred by legal cases, political controversies, and cultural events where algorithmic media are playing complicated and multifaceted roles. These trajectories serve merely as starting points and we suggest that members add to these conversations the relevant concerns that come from their own research.
 
