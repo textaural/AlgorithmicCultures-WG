@@ -1,7 +1,9 @@
 # Algor-wg/DiscussionBibliography
 
 ## Summary
-Our group — the Algorithmic Cultures Working Group — has bi-weekly meetings concerning issues that emerge from studying, engaging, and participating with algorithmic cultures. During these meetings people suggest relevant articles, books, and sources to one another. This is a repository of these discussions.
+The _Algorithmic Cultures Working Group_ has bi-weekly meetings concerning issues that emerge from studying, engaging, and participating with algorithmic cultures. During these meetings people suggest relevant articles, books, and sources to one another.
+
+We have collected these sources as generic bibliographic data (.bib) that can be imported into any reference manager.
 
 ## Discussions
 
